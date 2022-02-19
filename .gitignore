@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+Intermediate/
+x64/
+.vs/
+bin/
+serial/
+Batch/PostBuild.bat
